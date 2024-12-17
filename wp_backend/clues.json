@@ -1,0 +1,256 @@
+{
+    "clues": [
+        {
+            "clue": "A popular programming language",
+            "word": "PYTHON"
+        },
+        {
+            "clue": "A frontend library by Facebook",
+            "word": "REACT"
+        },
+        {
+            "clue": "A lightweight Python framework",
+            "word": "FLASK"
+        },
+        {
+            "clue": "A type of game involving logic",
+            "word": "PUZZLE"
+        },
+        {
+            "clue": "A helpful hint for a puzzle",
+            "word": "CLUE"
+        },
+        {
+            "clue": "hello",
+            "word": "HELLO"
+        },
+        {
+            "clue": "how",
+            "word": "HOW"
+        },
+        {
+            "clue": "Grow",
+            "word": "GROW"
+        },
+        {
+            "clue": "bye",
+            "word": "BYE"
+        },
+        {
+            "clue": "go",
+            "word": "GO"
+        },
+        {
+            "clue": "rupee",
+            "word": "RUPEE"
+        },
+        {
+            "clue": "ui",
+            "word": "UI"
+        },
+        {
+            "clue": "A language spoken in France",
+            "word": "FRENCH"
+        },
+        {
+            "clue": "A common kitchen appliance",
+            "word": "FRIDGE"
+        },
+        {
+            "clue": "Opposite of black",
+            "word": "WHITE"
+        },
+        {
+            "clue": "A place to sleep at night",
+            "word": "BEDROOM"
+        },
+        {
+            "clue": "A large body of water",
+            "word": "OCEAN"
+        },
+        {
+            "clue": "A type of citrus fruit",
+            "word": "LEMON"
+        },
+        {
+            "clue": "A large mammal with tusks",
+            "word": "ELEPHANT"
+        },
+        {
+            "clue": "A furry, four-legged pet",
+            "word": "DOG"
+        },
+        {
+            "clue": "A fast feline",
+            "word": "CHEETAH"
+        },
+        {
+            "clue": "A place to read",
+            "word": "LIBRARY"
+        },
+        {
+            "clue": "A place for treatment",
+            "word": "HOSPITAL"
+        },
+        {
+            "clue": "A round dessert",
+            "word": "PIE"
+        },
+        {
+            "clue": "A baked treat with chocolate",
+            "word": "BROWNIE"
+        },
+        {
+            "clue": "A cold treat",
+            "word": "ICE CREAM"
+        },
+        {
+            "clue": "A place with many vehicles",
+            "word": "GARAGE"
+        },
+        {
+            "clue": "A place for buying things",
+            "word": "STORE"
+        },
+        {
+            "clue": "A yellow fruit",
+            "word": "BANANA"
+        },
+        {
+            "clue": "A red fruit",
+            "word": "APPLE"
+        },
+        {
+            "clue": "A green fruit",
+            "word": "KIWI"
+        },
+        {
+            "clue": "A blue bird",
+            "word": "JAY"
+        },
+        {
+            "clue": "A green vegetable",
+            "word": "BROCCOLI"
+        },
+        {
+            "clue": "A red vegetable",
+            "word": "TOMATO"
+        },
+        {
+            "clue": "A purple vegetable",
+            "word": "EGGPLANT"
+        },
+        {
+            "clue": "A color of sun",
+            "word": "YELLOW"
+        },
+        {
+            "clue": "A color of sky",
+            "word": "BLUE"
+        },
+        {
+            "clue": "A color of leaves",
+            "word": "GREEN"
+        },
+        {
+            "clue": "A warm place",
+            "word": "DESERT"
+        },
+        {
+            "clue": "A snowy place",
+            "word": "ARCTIC"
+        },
+        {
+            "clue": "A body part for seeing",
+            "word": "EYE"
+        },
+        {
+            "clue": "A body part for hearing",
+            "word": "EAR"
+        },
+        {
+            "clue": "A body part for walking",
+            "word": "LEG"
+        },
+        {
+            "clue": "A body part for smelling",
+            "word": "NOSE"
+        },
+        {
+            "clue": "A popular sport with a ball",
+            "word": "FOOTBALL"
+        },
+        {
+            "clue": "A popular sport with a bat",
+            "word": "BASEBALL"
+        },
+        {
+            "clue": "A type of car",
+            "word": "SEDAN"
+        },
+        {
+            "clue": "A type of motorbike",
+            "word": "SCOOTER"
+        },
+        {
+            "clue": "A type of clothing",
+            "word": "SHIRT"
+        },
+        {
+            "clue": "Play Area",
+            "word": "PLAYGROUND"
+        }
+    ],
+    "words": [
+        "PYTHON",
+        "REACT",
+        "FLASK",
+        "PUZZLE",
+        "CLUE",
+        "HELLO",
+        "HOW",
+        "GROW",
+        "BYE",
+        "GO",
+        "RUPEE",
+        "UI",
+        "FRENCH",
+        "FRIDGE",
+        "WHITE",
+        "BEDROOM",
+        "OCEAN",
+        "LEMON",
+        "ELEPHANT",
+        "DOG",
+        "CHEETAH",
+        "LIBRARY",
+        "HOSPITAL",
+        "PIE",
+        "BROWNIE",
+        "ICE CREAM",
+        "GARAGE",
+        "STORE",
+        "BANANA",
+        "APPLE",
+        "KIWI",
+        "JAY",
+        "BROCCOLI",
+        "TOMATO",
+        "EGGPLANT",
+        "YELLOW",
+        "BLUE",
+        "GREEN",
+        "DESERT",
+        "ARCTIC",
+        "EYE",
+        "EAR",
+        "LEG",
+        "NOSE",
+        "FOOTBALL",
+        "BASEBALL",
+        "SEDAN",
+        "SCOOTER",
+        "SHIRT",
+        "PLAYGROUND"
+    ]
+}
